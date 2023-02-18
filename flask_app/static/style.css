@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+    margin: 10px auto;
+    /* color: white; */
+    width: 650px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.register{
+  background-color: white;
+  height: 570px;
+  width: 300px;
+  padding: 20px;
+}
+
+.login{
+  background-color: white;
+  /* height: 350px; */
+  width: 300px;
+  padding: 20px;
+  margin: 100px auto;
+}

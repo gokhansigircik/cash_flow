@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-size:cover;
+  background-image: url(https://cdn.shopify.com/s/files/1/2123/8425/products/26398792-LRG_530x.jpg?v=1578658881)
+}
+.addproperty{
+  /* margin: 70px auto; */
+  border-radius: 8px;
+}
+
+.container_edit {
+  background-color:rgb(86, 146, 219);
+  width: 350px;
+  /* height: 450px; */
+  margin: 80px auto;
+  border-radius: 15px;
+  padding: 30px;
+}
